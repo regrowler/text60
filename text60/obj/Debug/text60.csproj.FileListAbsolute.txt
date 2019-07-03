@@ -1,0 +1,7 @@
+C:\Users\Professional\source\repos\text60\text60\bin\Debug\text60.exe.config
+C:\Users\Professional\source\repos\text60\text60\bin\Debug\text60.exe
+C:\Users\Professional\source\repos\text60\text60\bin\Debug\text60.pdb
+C:\Users\Professional\source\repos\text60\text60\obj\Debug\text60.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\text60\text60\obj\Debug\text60.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\text60\text60\obj\Debug\text60.exe
+C:\Users\Professional\source\repos\text60\text60\obj\Debug\text60.pdb
